@@ -1,0 +1,7 @@
+name: modify 
+on: [push]
+jobs: 
+    hello-word:
+     runs-on: ubuntu-latest
+     steps: 
+      runs: echo 'hello word'
