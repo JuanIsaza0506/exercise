@@ -12,4 +12,4 @@ jobs:
          node-version: 18
 
       - name: hello world 
-        run: node codes\index.js
+        run: node codes/index.js
