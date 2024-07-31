@@ -11,5 +11,5 @@ jobs:
        with:
          node-version: 18
 
-      - name: hello word 
+      - name: hello world 
         run: node codes\index.js
